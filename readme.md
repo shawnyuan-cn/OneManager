@@ -1,5 +1,3 @@
-[Readme EN](readme.md)  
-
 # 注意：
 
   请关掉浏览器的翻译。  
